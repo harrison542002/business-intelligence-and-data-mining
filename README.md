@@ -32,7 +32,7 @@ relative_file_path = "/content/drive/MyDrive/olist_data"
 
 ## 🚨 Important Notes
 - Some models (e.g., Hugging Face transformers) may require internet access and may take time to load.
-- Running LightFM and SVD models can be computationally intensive. Consider using a machine with sufficient memory and CPU.
+- Running LightFM, SVD, and Sentiment analysis models can be computationally intensive. Consider using a machine with sufficient memory and CPU.
 - Watch for **data preprocessing cells**—ensure they complete successfully before moving forward.
 
 ## ✅ Output
