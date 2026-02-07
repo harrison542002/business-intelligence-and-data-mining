@@ -35,7 +35,7 @@ relative_file_path = "/content/drive/MyDrive/olist_data"
 - Running LightFM, SVD, and Sentiment analysis models can be computationally intensive. Consider using a machine with sufficient memory and CPU.
 - Watch for **data preprocessing cells**—ensure they complete successfully before moving forward.
 
-## ✅ Output
+## Output
 The notebook produces:
 - Visualizations (customer behavior, clusters, sentiment)
 - Word clouds
