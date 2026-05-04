@@ -2,11 +2,14 @@
 # README – BI Group Work Notebook
 
 ## Overview
-This Jupyter Notebook is part of a group project focusing on building a **hybrid recommendation system** and performing **data analysis** on the Olist e-commerce dataset. Key components include:
+This Jupyter Notebook is part of a group project focusing on building a **hybrid recommendation system** and performing **data analysis** on the Olist e-commerce dataset. 
+Key components include:
 - Exploratory Data Analysis (EDA)
 - Customer segmentation using KMeans
 - Sentiment analysis with VADER and Hugging Face Transformers
 - Recommender systems using LightFM and Surprise (SVD)
+
+[Quick Notebook link](https://github.com/harrison542002/business-intelligence-and-data-mining/blob/main/BI_Group_Work.ipynb)
 
 ## Requirements
 Make sure to install the required libraries before running the notebook:
