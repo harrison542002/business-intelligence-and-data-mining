@@ -1,5 +1,5 @@
 
-# README – BI Group Work Notebook
+# BI Group Work Notebook
 
 ## Overview
 This Jupyter Notebook is part of a group project focusing on building a **hybrid recommendation system** and performing **data analysis** on the Olist e-commerce dataset. 
